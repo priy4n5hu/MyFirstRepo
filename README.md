@@ -1,2 +1,4 @@
 # MyFirstRepo
-Yeh meri pehli repositry ha
+
+this is my first repo
+
